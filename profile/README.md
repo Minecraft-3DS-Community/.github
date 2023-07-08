@@ -1,5 +1,7 @@
 # Welcome to the Minecraft 3DS Community!
 
+!(Minecraft 3DS)[https://github.com/Minecraft-3DS-Community/.github/raw/main/img/mc3ds.jpg]
+
 Discord server: https://discord.com/invite/PcfekvmjSw
 
 Website: https://www.minecraft3ds.net
