@@ -8,7 +8,7 @@ Website: https://www.minecraft3ds.net
 
 YouTube: https://www.youtube.com/channel/UCCcDZhqaqiUnjAUUZHSIBtQ
 
-Twitter: https://twitter.com/minecraft3ds_
+Twitter: [https://twitter.com/minecraft3ds_](https://twitter.com/minecraft3ds_)
 
 Reddit: https://www.reddit.com/r/minecraft3ds
 
