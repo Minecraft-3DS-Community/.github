@@ -2,7 +2,7 @@
 
 ![Minecraft 3DS](https://github.com/Minecraft-3DS-Community/.github/raw/main/img/mc3ds.jpg)
 
-### Get involved
+# Get involved
 
 [![Discord server](https://github.com/Minecraft-3DS-Community/.github/raw/main/img/discord.png)](https://discord.com/invite/PcfekvmjSw)
 [![Minecraft 3DS Community Website](https://github.com/Minecraft-3DS-Community/.github/raw/main/img/website.png)](https://www.minecraft3ds.net)
