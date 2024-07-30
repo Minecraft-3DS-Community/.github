@@ -10,4 +10,3 @@
 [![Twitter](https://github.com/Minecraft-3DS-Community/.github/raw/main/img/twitter.png)](https://twitter.com/minecraft3ds_)
 [![Subreddit](https://github.com/Minecraft-3DS-Community/.github/raw/main/img/reddit.png)](https://www.reddit.com/r/minecraft3ds)
 [![Speedrun.com](https://github.com/Minecraft-3DS-Community/.github/raw/main/img/speedrun.png)](https://www.speedrun.com/mc3ds)
-[![Internet Archive](https://github.com/Minecraft-3DS-Community/.github/raw/main/img/ia.png)](https://archive.org/details/@minecraft_3ds)
