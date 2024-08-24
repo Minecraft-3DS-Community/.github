@@ -1,6 +1,6 @@
 # Welcome to the Minecraft 3DS Community!
 
-![Minecraft 3DS](https://github.com/Minecraft-3DS-Community/.github/raw/main/img/mc3ds.jpg)
+![image (8)](https://github.com/user-attachments/assets/061ce157-c14d-4593-b4c7-03689d51a7e4)
 
 ## Get involved
 
