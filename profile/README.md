@@ -9,7 +9,7 @@
   <a href="https://discord.com/invite/PcfekvmjSw">
     <img src="https://github.com/Minecraft-3DS-Community/.github/raw/main/img/discord.png" alt="Community Discord" style="width: 100px">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.minecraft3ds.net">
+  <a href="https://www.minecraft3ds.org">
     <img src="https://github.com/Minecraft-3DS-Community/.github/raw/main/img/website.png" alt="Minecraft 3DS Community Website" style="width: 100px">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCCcDZhqaqiUnjAUUZHSIBtQ">
